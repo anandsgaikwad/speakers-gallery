@@ -1,0 +1,6 @@
+{
+  "name": "Speaker’s Gallery",
+  "description": "A premier executive speaker platform representing distinguished military leadership veterans from the Indian Army, delivering strategic insights and keynote addresses for corporate leadership and institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
